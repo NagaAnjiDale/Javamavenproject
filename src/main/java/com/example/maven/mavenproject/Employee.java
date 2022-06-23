@@ -12,6 +12,8 @@ public class Employee {
 
         // Comment to check CI after enabling in the Pipelines
 
+        // 2 CI test
+
 
         public String getName() {
             return name;
