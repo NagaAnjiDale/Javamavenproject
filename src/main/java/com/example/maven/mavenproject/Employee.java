@@ -2,6 +2,7 @@ package com.example.maven.mavenproject;
 
 public class Employee {
 
+    // COMENT FOR RELEASE PIPELINE
         private String empId;
         private String name;
         private String designation;
