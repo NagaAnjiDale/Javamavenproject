@@ -3,6 +3,8 @@ package com.example.maven.mavenproject;
 public class Employee {
 
     // COMENT FOR RELEASE PIPELINE
+
+    // check continuous build
         private String empId;
         private String name;
         private String designation;
