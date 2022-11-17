@@ -9,6 +9,8 @@ public class MavenprojectApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MavenprojectApplication.class, args);
 		// all clear
+
+		System.out.println("testing jenkins");
 	}
 
 }
